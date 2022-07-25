@@ -1,4 +1,5 @@
 # squid-games-ip
+## NO SUPPORT ON THIS SHIT
 Dumb meme thing I did
 
 Won't show to Discord but will to anyone/thing else.
